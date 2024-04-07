@@ -18,7 +18,7 @@
 </div><br/>
 
 ### Portfólio:
-[![Portfólio]()](https://joaobelai.github.io/Portf-lio/)
+https://joaobelai.github.io/Portf-lio/
 
 
 Técnico em Desenvolvimento de sistemas|ETEC de Hortolândia <br/>
