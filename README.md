@@ -18,7 +18,7 @@
 </div><br/>
 
 ### Portfólio:
-portfolio-git-main-joaobelais-projects.vercel.app
+https://portfolio-git-main-joaobelais-projects.vercel.app
 
 
 Técnico em Desenvolvimento de sistemas|ETEC de Hortolândia <br/>
