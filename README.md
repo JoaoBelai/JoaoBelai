@@ -5,8 +5,8 @@
 
 ### I Work at Bosch Brazil with system development <br/>
 
-![JoaoBelai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBelai&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBelai&layout=donut&theme=tokyonight)](https://github.com/JoaoBelai/github-readme-stats)
+![JoaoBelai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBelai&show_icons=true&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBelai&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/JoaoBelai/github-readme-stats)
 
 ### Technologies that I work:
 <div style="display: inline_block">
