@@ -1,5 +1,5 @@
-### Olá, eu sou o João Belai ✌️
-### Bem Vindo!
+### Hello, I'm João Belai ✌️
+### Welcome!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_belai/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-belai-27611b299/)
 
@@ -17,9 +17,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br/>
 
-### Portfólio:
+### Portfolio:
 https://portfolio-git-main-joaobelais-projects.vercel.app
 
-
-Técnico em Desenvolvimento de sistemas|ETEC de Hortolândia <br/>
-Cursando Bacharelado em Ciências da Computação|Unimetrocamp Wyden<br/>
+I Work at BOSCH Brazil with system development <br/>
+-Systems Development Technician | ETEC of Hortolândia <br/>
+-Studying technician in systems development at SENAI <br/>
+-Studying Bachelor of Science in Computer Science|Unimetrocamp Wyden<br/>
