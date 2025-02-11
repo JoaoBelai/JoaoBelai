@@ -22,7 +22,7 @@
 ### Portfolio:
 https://portfolio-git-main-joaobelais-projects.vercel.app
 
-### Educacional Backgrond:
+### 🎓Educacional Backgrond:
 - Systems Development Technician | ETEC of Hortolândia <br/>
 - Studying technician in systems development at SENAI <br/>
 - Studying Bachelor of Science in Computer Science|Unimetrocamp Wyden<br/>
