@@ -6,7 +6,7 @@
 ![JoaoBelai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBelai&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBelai&layout=donut)](https://github.com/JoaoBelai/github-readme-stats)
 
-### Tecnologias que trabalho:
+### Technologies that I work:
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,6 +21,6 @@
 https://portfolio-git-main-joaobelais-projects.vercel.app
 
 I Work at BOSCH Brazil with system development <br/>
--Systems Development Technician | ETEC of Hortolândia <br/>
--Studying technician in systems development at SENAI <br/>
--Studying Bachelor of Science in Computer Science|Unimetrocamp Wyden<br/>
+- Systems Development Technician | ETEC of Hortolândia <br/>
+- Studying technician in systems development at SENAI <br/>
+- Studying Bachelor of Science in Computer Science|Unimetrocamp Wyden<br/>
