@@ -28,6 +28,6 @@
 https://portfolio-git-main-joaobelais-projects.vercel.app
 
 ### 🎓Educacional Backgrond:
-- Systems Development Technician | ETEC of Hortolândia <br/>
-- Studying technician in systems development at SENAI <br/>
-- Studying Bachelor of Science in Computer Science|Unimetrocamp Wyden<br/>
+- Systems Development Technician | ETEC de Hortolândia <br/>
+- Studying technician in systems development at SENAI Roberto Mange <br/>
+- Studying Bachelor of Science in Computer Science | Unimetrocamp Wyden<br/>
