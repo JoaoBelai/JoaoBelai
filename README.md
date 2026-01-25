@@ -24,9 +24,6 @@
   <img align="center" alt="Sqlite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />  
 </div><br/>
 
-### Portfolio:
-https://portfolio-git-main-joaobelais-projects.vercel.app
-
 ### 🎓Educacional Backgrond:
 - Systems Development Technician | ETEC de Hortolândia <br/>
 - Studying technician in systems development at SENAI Roberto Mange <br/>
